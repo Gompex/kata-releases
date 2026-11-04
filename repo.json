@@ -1,0 +1,31 @@
+[
+    {
+        "Author":  "Dawid",
+        "Name":  "Kata",
+        "InternalName":  "Kata",
+        "AssemblyVersion":  "0.5.9.0",
+        "Description":  "Shows your next GCDs and oGCD weaves, explains each suggestion and warns when your burst drifts from the party\u0027s raid buffs. Rotations live in editable JSON files. Kata never presses, queues or replaces actions, never edits hotbars and never changes your target. Works alongside XIVCombo.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "combat",
+                     "rotation",
+                     "helper",
+                     "samurai"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Suggestion-only rotation helper: what to press next, and why.",
+        "AcceptsFeedback":  true,
+        "RepoUrl":  "https://github.com/Gompex/kata-releases",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Gompex/kata-releases/main/plugins/Kata/Kata-0.5.9.0.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Gompex/kata-releases/main/plugins/Kata/Kata-0.5.9.0.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Gompex/kata-releases/main/plugins/Kata/Kata-0.5.9.0.zip",
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LastUpdate":  1793833138,
+        "Changelog":  "Summoner and Pictomancer AoE, all-level fixes"
+    }
+]
