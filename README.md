@@ -1,5 +1,7 @@
 # Kata: release builds
 
+![Kata: the suggestion strip, with the next GCD, weaves, a hold badge and warnings](assets/kata-overview.png)
+
 Kata is a suggestion-only rotation helper for FINAL FANTASY XIV (Dalamud plugin). It shows what to press next and why.
 It never presses, queues or replaces actions, never edits hotbars and never changes your target.
 
@@ -17,4 +19,4 @@ This repository only holds the release zips and `repo.json` for Dalamud. The sou
 
 New versions arrive like any other plugin update.
 
-Current version: **0.5.9.0** - Summoner and Pictomancer AoE, all-level fixes
+Current version: **0.5.10.0** - Rebuilt for patch 7.58
