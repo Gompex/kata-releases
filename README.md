@@ -19,4 +19,4 @@ This repository only holds the release zips and `repo.json` for Dalamud. The sou
 
 New versions arrive like any other plugin update.
 
-Current version: **0.5.10.0** - Rebuilt for patch 7.58
+Current version: **0.5.12.0** - Viper: Uncoiled Fury before Vicewinder at full coils, Coil/Den tracking fixed
