@@ -19,4 +19,4 @@ This repository only holds the release zips and `repo.json` for Dalamud. The sou
 
 New versions arrive like any other plugin update.
 
-Current version: **0.5.12.0** - Viper: Uncoiled Fury before Vicewinder at full coils, Coil/Den tracking fixed
+Current version: **0.5.15.0** - 0.5.15: Black Mage reworked at every level; Ninja fixes (Raiju, Ten Chi Jin, Meisui, Kassatsu, AoE) and mudras shown as buttons
