@@ -19,4 +19,4 @@ This repository only holds the release zips and `repo.json` for Dalamud. The sou
 
 New versions arrive like any other plugin update.
 
-Current version: **0.5.16.0** - 0.5.16: tanks reviewed at every level (PLD, WAR, DRK, GNB)
+Current version: **0.5.17.0** - 0.5.17: smooth scrolling timeline; tank and Ninja fixes
