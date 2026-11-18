@@ -19,4 +19,4 @@ This repository only holds the release zips and `repo.json` for Dalamud. The sou
 
 New versions arrive like any other plugin update.
 
-Current version: **0.5.18.0** - 0.5.18: every job reviewed at every level; Ninja mudras as buttons; smooth timeline
+Current version: **0.5.19.0** - 0.5.19: MP is checked for every job
